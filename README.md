@@ -11,3 +11,12 @@ Ce projet présente un tableau de bord interactif réalisé avec Power BI, analy
 3.Suivre l’évolution des ventes dans le temps
 
 4.Fournir un outil interactif et intuitif pour la prise de décision
+
+# Stack Technique
+Outil : Microsoft Power BI Desktop.
+
+Source de données : Dataset financier (Excel/CSV).
+
+Langage : DAX (Data Analysis Expressions) pour les mesures calculées.
+
+Compétences démontrées : Nettoyage de données (Power Query), Modélisation de données, Data Viz et Storytelling.
