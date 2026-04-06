@@ -13,9 +13,7 @@ Ce projet consiste en la création d'un tableau de bord décisionnel interactif 
 4.Fournir un outil interactif et intuitif pour la prise de décision
 
 # Stack Technique & Méthodologie
-
-Voici un résumé des principales étapes et outils utilisés dans le projet :  
-
+ 
 - **Outil :** Microsoft Power BI Desktop  
 - **ETL (Power Query) :** nettoyage des données, gestion des types (monnaies, dates) et création de colonnes calculées  
 - **Modélisation :** mise en place d'un schéma en étoile pour optimiser les performances des filtres  
