@@ -4,8 +4,6 @@
 Ce projet consiste en la création d'un tableau de bord décisionnel interactif permettant de piloter la performance commerciale d'une entreprise internationale. À partir d'un jeu de données financières complexes, j'ai transformé des lignes brutes en insights visuels exploitables pour la direction générale.
 
 # Objectifs 
-# Projet Power BI – Analyse des ventes
-
 Le projet s'articule autour de **quatre axes majeurs** :  
 
 1. **Analyse de la Structure des Revenus :**  
