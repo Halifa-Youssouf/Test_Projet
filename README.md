@@ -1,7 +1,7 @@
 # Dashboard d'Analyse des Ventes Globales (Financials)
 
 # Contexte du projet
-Ce projet consiste à analyser les performances commerciales d’une entreprise sur plusieurs marchés et segments de clientèle. L’objectif était de créer un dashboard interactif permettant aux décideurs de visualiser rapidement les ventes, identifier les segments les plus performants et suivre l’évolution des ventes dans le temps.
+Ce projet présente un tableau de bord interactif réalisé avec Power BI, analysant les performances financières d'une entreprise sur plusieurs segments de marché et zones géographiques. L'objectif est d'identifier les leviers de croissance et de comprendre la répartition de la valeur par produit et par pays.
 
 # Objectifs du projet
 1.Visualiser la répartition des ventes par segment et par pays 
