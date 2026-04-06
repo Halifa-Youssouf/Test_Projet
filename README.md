@@ -13,7 +13,8 @@ Ce projet présente un tableau de bord interactif réalisé avec Power BI, analy
 4.Fournir un outil interactif et intuitif pour la prise de décision
 
 # Stack Technique
-Outil : Microsoft Power BI Desktop.
+# Outil : 
+Microsoft Power BI Desktop.
 
 Source de données : Dataset financier (Excel/CSV).
 
