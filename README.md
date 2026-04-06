@@ -12,14 +12,11 @@ Ce projet consiste en la création d'un tableau de bord décisionnel interactif 
 
 4.Fournir un outil interactif et intuitif pour la prise de décision
 
-# Stack Technique
-Outil : Microsoft  Power BI Desktop.
-
-Source de données : Dataset financier (Excel/CSV).
-
-Langage : DAX (Data Analysis Expressions) pour les mesures calculées.
-
-Compétences démontrées : Nettoyage de données (Power Query), Modélisation de données, Data Viz et Storytelling.
+# Stack Technique & Méthodologie
+**Outil** : Microsoft Power BI Desktop.
+**ETL (Power Query)**: Nettoyage des données, gestion des types (monnaies, dates) et création de colonnes calculées.
+**Modélisation**: Mise en place d'un schéma en étoile pour optimiser les performances des filtres.
+**DAX (Data Analysis Expressions)**: Création de mesures personnalisées pour le calcul des variations et des parts de marché.
 
 # Méthodologie
 .Import et préparation des données
