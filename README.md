@@ -3,7 +3,7 @@
 # Contexte du projet
 Ce projet consiste en la création d'un tableau de bord décisionnel interactif permettant de piloter la performance commerciale d'une entreprise internationale. À partir d'un jeu de données financières complexes, j'ai transformé des lignes brutes en insights visuels exploitables pour la direction générale.
 
-# Objectifs du projet
+# Objectifs 
 1.Visualiser la répartition des ventes par segment et par pays 
 
 2.Identifier les produits les plus vendus par segment et par pays
