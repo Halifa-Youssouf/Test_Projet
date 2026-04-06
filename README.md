@@ -5,4 +5,4 @@ Ce projet consiste à analyser les performances commerciales d’une entreprise 
 
 # Objectifs du projet
 1.Visualiser la répartition des ventes par segment et par pays
-
+2.Identifier les produits les plus vendus par segment et par pays
