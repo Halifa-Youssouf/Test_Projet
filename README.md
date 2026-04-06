@@ -1,4 +1,4 @@
-# Dashboard d'Analyse des Ventes Globales (Financials)
+# Analyse de Performance Financière Globale (Power BI)
 
 # Contexte du projet
 Ce projet consiste en la création d'un tableau de bord décisionnel interactif permettant de piloter la performance commerciale d'une entreprise internationale. À partir d'un jeu de données financières complexes, j'ai transformé des lignes brutes en insights visuels exploitables pour la direction générale.
