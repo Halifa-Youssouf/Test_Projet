@@ -20,3 +20,17 @@ Source de données : Dataset financier (Excel/CSV).
 Langage : DAX (Data Analysis Expressions) pour les mesures calculées.
 
 Compétences démontrées : Nettoyage de données (Power Query), Modélisation de données, Data Viz et Storytelling.
+
+# Méthodologie
+Import et préparation des données
+Nettoyage des doublons et des valeurs manquantes
+Transformation des dates pour analyse mensuelle et annuelle
+Analyse exploratoire
+Répartition des ventes par segment et pays
+Classement des produits les plus performants
+Construction du dashboard Power BI
+Visualisations choisies :
+Donut Chart : répartition des ventes par segment
+Bar Chart : volumes de ventes par pays
+Sankey / decomposition tree : détail par segment → pays → produit
+Line Chart : évolution des ventes dans le temps
